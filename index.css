@@ -1,0 +1,14 @@
+.Grid-container{
+    width: 100%;
+    min-height: 400px;
+    border: 1px solid black;
+    display: grid;
+  
+
+}
+.box{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
